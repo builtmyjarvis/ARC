@@ -1,3 +1,5 @@
+**[Download (latest release)](https://github.com/builtmyjarvis/ARC/releases/latest) · [Join the Discord](https://discord.gg/6PdHN4pz3q) · [Free AI rules file](https://builtmyjarvis.gumroad.com/l/jarvis-rules)**
+
 # A.R.C.
 
 **Your own voice assistant with a Stark-style HUD. Free. Windows. Talk to your PC like Tony talks to JARVIS.**
