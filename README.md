@@ -46,3 +46,4 @@ Built by Noah (builtmyjarvis).
 ## More free tools
 
 - [clipmeter](https://github.com/builtmyjarvis/clipmeter): measure any short video with numbers (cuts, brightness, motion, speaking speed) instead of guessing, then copy the style. Works as a Claude skill.
+- [clipstack](https://github.com/builtmyjarvis/clipstack): turn a 16:9 video into 9:16 short clips with logo and one text line, ffmpeg only. Works as a Claude skill.
