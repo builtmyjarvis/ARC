@@ -41,3 +41,9 @@ Hand tracking, controlling the browser, a night shift mode that keeps working wh
 Free to install and use on your own computers. See `LICENSE.txt`.
 
 Built by Noah (builtmyjarvis).
+
+
+## More free tools
+
+- [clipmeter](https://github.com/builtmyjarvis/clipmeter): measure any short video with numbers (cuts, brightness, motion, speaking speed) instead of guessing, then copy the style. Works as a Claude skill.
+- 
