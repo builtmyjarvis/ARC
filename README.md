@@ -46,4 +46,3 @@ Built by Noah (builtmyjarvis).
 ## More free tools
 
 - [clipmeter](https://github.com/builtmyjarvis/clipmeter): measure any short video with numbers (cuts, brightness, motion, speaking speed) instead of guessing, then copy the style. Works as a Claude skill.
-- 
